@@ -1,2 +1,1 @@
-# speech-recognition
-speech recognition
+# speechrecognition
